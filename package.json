@@ -1,0 +1,20 @@
+{
+  "name": "isomorphic-proxy-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "browser": "client.js",
+  "repository": {
+    "type": "git",
+    "url": "KnisterPeter/isomorphic-proxy-config"
+  },
+  "author": {
+    "name": "Markus Wolf",
+    "email": "knister.peter@shadowrun-clan.de"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^1.0.0"
+  }
+}
